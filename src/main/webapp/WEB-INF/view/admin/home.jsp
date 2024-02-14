@@ -57,7 +57,7 @@
 	<div class="ms-panel">
 						<div class="ms-panel-header">
 						<center>
-							<h3>Todo Details</h3>
+							<h3>Todo Details testing</h3>
 						</div>
 						<div class="ms-panel-body">
 						
