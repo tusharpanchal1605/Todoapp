@@ -6,7 +6,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Todo App</title>
+<title>Todo App title</title>
 <link href="adminResources/css/all.min.css" rel="stylesheet">
 <link href="adminResources/css/bootstrap.min.css" rel="stylesheet">
  <script src="adminResource/js/bootstrap.min.js"></script>
